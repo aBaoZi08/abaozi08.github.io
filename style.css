@@ -4,8 +4,30 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
+
+    background-color: #fff3ea
 }
 
 .bio {
-    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color:#383734 ;
+    
+}
+
+hr{ 
+   border: 0;
+   height: 1px;
+   background: #000000;
+   width: 100%;
+   margin: 10px 20px; 
+}
+.links {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color:#383734 ;
+
 }
