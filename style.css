@@ -24,12 +24,13 @@ hr{
    background: #000000;
    width: 100%;
    margin: 10px 100px; 
+   align: left;
 }
 .links {
     margin-top: 20px;
     margin-left: 100px;
     margin-right: 100px;
-    text-align: left;
+    text-align: left bottom;
     font-family: 'Courier New', Courier, monospace;
     font-size: small;
     color:#383734 ;
